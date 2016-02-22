@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connection_status_label">connecting</string>
+    <string name="btn1">Register</string>
+    <string name="btn2">Unregister</string>
+    
+</resources>
